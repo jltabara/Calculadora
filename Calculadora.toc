@@ -1,0 +1,16 @@
+\select@language {spanish}
+\contentsline {subsection}{Operaciones aritm\'eticas}{3}
+\contentsline {subsection}{Fracciones}{4}
+\contentsline {subsection}{Radicales}{5}
+\contentsline {subsection}{Exponenciales y logaritmos}{6}
+\contentsline {subsection}{Trigonometr\IeC {\'\i }a}{7}
+\contentsline {subsection}{Funciones y ecuaciones}{8}
+\contentsline {subsection}{Ecuaciones de segundo y tercer grado}{9}
+\contentsline {subsection}{Sistemas de ecuaciones}{10}
+\contentsline {subsection}{N\'umeros complejos}{11}
+\contentsline {subsection}{Combinatoria}{12}
+\contentsline {subsection}{Vectores}{13}
+\contentsline {subsection}{Matrices}{14}
+\contentsline {subsection}{Otras bases de numeraci\'on}{15}
+\contentsline {subsection}{Estad\IeC {\'\i }stica unidimensional}{16}
+\contentsline {subsection}{Estad\IeC {\'\i }stica bidimensional}{17}
